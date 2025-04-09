@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/LTW/static/css/main.a3751efe.css",
-    "main.js": "/LTW/static/js/main.49ca4932.js",
+    "main.js": "/LTW/static/js/main.af9294fc.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/LTW/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/LTW/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/LTW/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
@@ -11,6 +11,6 @@
   },
   "entrypoints": [
     "static/css/main.a3751efe.css",
-    "static/js/main.49ca4932.js"
+    "static/js/main.af9294fc.js"
   ]
 }
